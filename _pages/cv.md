@@ -1,11 +1,10 @@
 ---
 layout: archive
 title: "CV"
-permalink: /cv/
+permalink: /files/CV.pdf
 author_profile: true
 redirect_from:
   - /resume
-url: 'http://yongjiasong.github.io/files/CV.pdf'
 ---
 
 {% include base_path %}
