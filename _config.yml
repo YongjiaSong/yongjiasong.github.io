@@ -24,6 +24,8 @@ author:
   avatar           : "profile.png"
   name             : "Yongjia Song | 宋永嘉"
   #pronouns         : "she/her"
+  bio              : "bilingualism \space
+                      language processing"
   location         : # "Irvine, CA"
   employer         : "University of California, Irvine"
   uri              : # URL
@@ -36,9 +38,6 @@ author:
   orcid            : # ""
   pubmed           : # ""
   researchgate     : # URL
-  bio              : "bilingualism \space
-                      language processing \space
-                      lexical production"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
