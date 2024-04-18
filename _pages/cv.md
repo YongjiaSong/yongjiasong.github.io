@@ -5,7 +5,7 @@ permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
-url: 'http://academicpages.github.io/files/CV.pdf'
+url: 'http://yongjiasong.github.io/files/CV.pdf'
 ---
 
 {% include base_path %}
