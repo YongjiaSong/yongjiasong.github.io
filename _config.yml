@@ -24,12 +24,8 @@ author:
   avatar           : "profile.png"
   name             : "Yongjia Song | 宋永嘉"
   #pronouns         : "she/her"
-  bio              : "Bilingualism,\\
-                      Language Processing,\\
-                      Lexical Production,\\
-                      Lexical Entrainment/Alignment,\\
-                      Scope Ambiguity,\\
-                      Computational Modeling"
+  bio              : ""
+  tag              : "bilingualism"
   location         : # "Irvine, CA"
   employer         : "University of California, Irvine"
   uri              : # URL
