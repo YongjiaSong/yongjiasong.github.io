@@ -12,7 +12,7 @@ title                    : "Yongjia Song | 宋永嘉"
 #title_separator          : "-"
 name                     : &name "Yongjia Song"
 description              : &description "personal description"
-url                      : https://yongjiasong.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : "https://yongjiasong.github.io" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "YongjiaSong/yongjiasong.github.io"
 
@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Yongjia Song | 宋永嘉"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar" #key words
+  bio              : "bilingualism, lexical entrainment, language production, psycholinguistics, computational&nbsp;modeling" #key words
   location         : "Irvine, CA"
   employer         : "University of California, Irvine"
   uri              : # URL
@@ -58,7 +58,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "www.linkedin.com/in/yongjia-song-syj523"
+  linkedin         : "www.linkedin.com/in/yongjias523"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
